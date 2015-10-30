@@ -1,0 +1,53 @@
+0 .4 1 0 0 1
+trajectory 6 5
+component
+base 0.541806 0.438308
+base 0.692308 0.362199
+base 0.859532 0.160317
+base 0.996656 -0.200194
+trajectory 7 8
+component
+base 0.147157 -0.130628
+base 0.394649 -0.318731
+base 0.61204 -0.29114
+base 0.832776 -0.236208
+base 0.989967 -0.576787
+trajectory 8 7
+component
+base 0.528428 -1.658482
+base 0.80602 -1.006429
+base 0.983278 -0.354748
+trajectory 9 10
+component
+base 0 0.354772
+base .3 0
+base 0.625418 -0.764028
+base 0.749164 -1.163781
+trajectory 10 9
+component
+base 0.020067 -0.809573
+base 0.197324 0.510418
+base 0.488294 0.518456
+base 0.75 0.5
+base 0.751 0.15
+base 1.0 0.15
+trajectory 0 1
+component
+base 0.006689 0.025126
+base 0.505017 0.138526
+base 0.996656 0.025126
+trajectory 1 0
+component
+base 0.013378 -0.005066
+base 0.448161 -0.321392
+base 0.993311 -0.025126
+trajectory 2 3
+component
+base 0 1
+trajectory 3 2
+component
+base 0 1
+trajectory 4 4
+trajectory -1 -1
+component
+base 0.488294 -0.113631

@@ -1,0 +1,58 @@
+0 .6 1 0 0 1
+trajectory 5 6
+trajectory 6 5
+strength .2 .2
+strength .4 1
+trajectory 7 8
+component
+base 0.03344 -0.204846
+base 0.959866 -0.070153
+trajectory 8 7
+strength .2 .2
+strength .4 1
+component
+base 0 0
+trajectory 9 10
+strength .3 1
+component
+base 0 .1
+base .3 0
+base .8 0
+base 1 -.2
+vscale -.1 .5
+vscale 0 0
+vscale .2 .2
+vscale .5 .2
+vscale 1 2.5
+trajectory 10 9
+strength .2 .2
+strength .4 1
+component
+base 0 -.3
+base .3 -.3
+base .4 0
+base 1 .1
+vscale -.5 2
+vscale -.1 1
+vscale 0 0
+vscale .1 1
+vscale .5 2.5
+vscale 1 6
+vscale 1.1 7
+vscale 1.5 3
+trajectory 0 1
+component
+base 0 .2
+trajectory 1 0
+component
+base 0 -.1
+trajectory 2 3
+component
+base 0 .1
+trajectory 3 2
+component
+base 0 0
+trajectory 4 4
+trajectory -1 -1
+component
+base 0 0
